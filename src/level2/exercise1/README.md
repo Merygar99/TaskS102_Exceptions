@@ -44,7 +44,7 @@ Open the file containing the main method (Main.java). Right-click anywhere in th
 ## 📦 Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Merygar99/TaskS101_InheritancePolymorphism.git
+   https://github.com/Merygar99/TaskS102_Exceptions.git
 
 ---
 
