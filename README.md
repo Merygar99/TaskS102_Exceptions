@@ -1,6 +1,7 @@
 ⚠️ Java Exception Handling – Practice Exercises
 
 🧩 About This Repository
+
 This repository contains a collection of exercises focused on mastering exception handling in Java. It explores how to detect, handle, and test exceptions properly, following best practices for building robust and resilient applications.
 
 📋 Topics Covered
